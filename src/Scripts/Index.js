@@ -1,14 +1,11 @@
 import new1 from '../assets/images/Primera.jpg'
-export let NewActuality =[]
-export function NewActu(id) {
-    NewActuality=[id]
-}
+
 
 export const News = [
 
     {
         id:1,
-        description:"aaaa",
+        description:'"Quiero limpiar mi nombre antes de morir": la ingeniera estrella de Tesla que fue despedida cuando denunció a la compañía y demandó a Elon Musk por difamación',
         date:"1 abril 2024",
         image:new1
 
@@ -16,7 +13,7 @@ export const News = [
     },
     {
         id:2,
-        description:"bbb",
+        description:'"Quiero limpiar mi nombre antes de morir": la ingeniera estrella de Tesla que fue despedida cuando denunció a la compañía y demandó a Elon Musk por difamación',
         date:"1 abril 2024",
         image:new1
 
@@ -24,8 +21,8 @@ export const News = [
     },
     {
         id:3,
-        description:"ccc",
-        date:"1 abril 2024",
+        description:"cccaaaaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa a ",
+        date:"1 abril 2024", 
         image:new1
 
 
