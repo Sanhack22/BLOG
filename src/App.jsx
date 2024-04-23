@@ -1,4 +1,5 @@
 import { useState } from "react"
+import { Carousel } from "./Components/Carousel/Carousel"
 import { Header } from "./Components/Header/Header"
 import { Main } from "./Components/Main/Main"
 import { NewPrimary } from "./Components/NewPrimary/NewPrimary"
@@ -49,7 +50,9 @@ function App() {
             )
           }
           </Section>
-        </Main>      
+        </Main>     
+        <Carousel></Carousel>
+
       </Home>
     </>
   )
